@@ -1,3 +1,3 @@
-# C++_project
+# C++ project
 This is my first Semester individual Project
 Author - Hadeed Hyder
